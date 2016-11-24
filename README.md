@@ -7,7 +7,7 @@
 
 ## 필요한 것
 
-날개셋 한글 입력기(http://moogi.new21.org/prg4.html)와 Keyboard Layout manager(http://www.klm32.com/)를 씁니다. keyboard layout manager는 걍 lite 버전 다운 받아서 쓰시면 됨.
+[날개셋 한글 입력기](http://moogi.new21.org/prg4.html)와 [Keyboard Layout manager](http://www.klm32.com/)를 씁니다. keyboard layout manager는 걍 lite 버전 다운 받아서 쓰시면 됨.
 
 세벌식 입력은 날개셋으로 하고, 기본 키보드 레이아웃 dll을 Keyboard layout manager로 콜맥으로 바꿔버리는 방식. 이 repo에 있는 colemak.klm2000파일이 Keyboard layout manager에서 콜맥 레이아웃 배치해놓은 거기 때문에 korean 레이아웃을 저걸로 바꿔주면 콜맥으로 지정됨.
 
